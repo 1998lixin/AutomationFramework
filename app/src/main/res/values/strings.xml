@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutomationFramework</string>
+    <string name="test_service_label">自动化示范</string>
+    <string name="accessibility_description">无</string>
+</resources>

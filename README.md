@@ -9,7 +9,7 @@
  4 无ROOT Android手机SDK必须大于24（使用了手势识别作为点击）而且webview就没办法了  
 
 #### 示范  
-这里用微信朋友圈发图片做一个示范  Webview的示范等我过两天在写吧 其实很简单应该一看就懂了和辅助功能写法类似  而且可以在任何地方书写和服务端交换也是极其方便的
+这里用微信（7.0.7）朋友圈发图片做一个示范  Webview的示范等我过两天在写吧 其实很简单应该一看就懂了和辅助功能写法类似  而且可以在任何地方书写和服务端交换也是极其方便的
 ```
   public static void SNSImages(Context context ,boolean txt, String text, int num) throws InterruptedException {
         //startAPP("com.tencent.mm/.ui.LauncherUI");
